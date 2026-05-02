@@ -32,11 +32,11 @@ OpenStreetMap Nominatim (reverse geocoding)
 
 Download or clone this repository:
 
-git clone https://github.com/mufarrizz/weather-app.git
+git clone https://github.com/mufarrizz/weatherapp.git
 
 Open the file:
 
-weather_app.html
+index.html
 Allow location access when prompted.
 
 That's it — no installation needed ✅
