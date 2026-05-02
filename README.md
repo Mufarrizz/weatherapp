@@ -48,16 +48,14 @@ Click the °C / °F button (top-right)
 Requires internet connection (API calls)
 Requires location permission to work properly
 Works best in modern browsers (Chrome, Edge, Firefox)
-📸 Preview
-
-(Add a screenshot here if you want — it’ll make your repo look 10x better)
 
 💡 Future Improvements
-🔍 Search weather by city name
-🌙 Dark / Light mode toggle
-📱 Mobile optimization
-🌪️ Weather alerts
-💾 Offline caching
+>🔍 Search weather by city name
+>🌙 Dark / Light mode toggle
+>📱 Mobile optimization
+>🌪️ Weather alerts
+>💾 Offline caching
+
 📄 License
 
 Free to use and modify.
